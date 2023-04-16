@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","bowl","plant"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/changjing/kaishi.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"d17e2",resources:"d8e43",main:"22a0b"}};
